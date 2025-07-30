@@ -123,9 +123,6 @@ CMakeFiles/voice_engine.dir/src/app/application.cpp.o: ../src/app/application.cp
   /usr/include/stdint.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/c++/11/deque \
-  /usr/include/c++/11/bits/stl_deque.h \
-  /usr/include/c++/11/bits/deque.tcc \
   ../include/codec/opus_codec.hpp \
   ../include/codec/i_audio_encoder.hpp \
   ../include/codec/i_audio_decoder.hpp \
@@ -407,9 +404,6 @@ CMakeFiles/voice_engine.dir/src/app/main.cpp.o: ../src/app/main.cpp \
   /usr/include/stdint.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/c++/11/deque \
-  /usr/include/c++/11/bits/stl_deque.h \
-  /usr/include/c++/11/bits/deque.tcc \
   ../include/codec/opus_codec.hpp \
   ../include/codec/i_audio_encoder.hpp \
   ../include/codec/i_audio_decoder.hpp \
@@ -690,9 +684,6 @@ CMakeFiles/voice_engine.dir/src/capture/audio_capturer.cpp.o: ../src/capture/aud
   /usr/include/stdint.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/c++/11/deque \
-  /usr/include/c++/11/bits/stl_deque.h \
-  /usr/include/c++/11/bits/deque.tcc \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/ostream \
   /usr/include/c++/11/ios \
@@ -781,35 +772,7 @@ CMakeFiles/voice_engine.dir/src/capture/audio_capturer.cpp.o: ../src/capture/aud
   /usr/include/c++/11/bits/basic_ios.tcc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
-  /usr/include/c++/11/bits/istream.tcc \
-  /usr/include/c++/11/algorithm \
-  /usr/include/c++/11/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/11/pstl/execution_defs.h \
-  /usr/include/c++/11/cmath \
-  /usr/include/math.h \
-  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
-  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
-  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/c++/11/bits/specfun.h \
-  /usr/include/c++/11/limits \
-  /usr/include/c++/11/tr1/gamma.tcc \
-  /usr/include/c++/11/tr1/special_function_util.h \
-  /usr/include/c++/11/tr1/bessel_function.tcc \
-  /usr/include/c++/11/tr1/beta_function.tcc \
-  /usr/include/c++/11/tr1/ell_integral.tcc \
-  /usr/include/c++/11/tr1/exp_integral.tcc \
-  /usr/include/c++/11/tr1/hypergeometric.tcc \
-  /usr/include/c++/11/tr1/legendre_function.tcc \
-  /usr/include/c++/11/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/11/tr1/poly_hermite.tcc \
-  /usr/include/c++/11/tr1/poly_laguerre.tcc \
-  /usr/include/c++/11/tr1/riemann_zeta.tcc
+  /usr/include/c++/11/bits/istream.tcc
 
 CMakeFiles/voice_engine.dir/src/codec/opus_codec.cpp.o: ../src/codec/opus_codec.cpp \
   /usr/include/stdc-predef.h \
@@ -1696,36 +1659,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 ../src/codec/opus_codec.cpp:
 
-/usr/include/c++/11/tr1/riemann_zeta.tcc:
-
-/usr/include/c++/11/tr1/poly_hermite.tcc:
-
-/usr/include/c++/11/tr1/modified_bessel_func.tcc:
-
-/usr/include/c++/11/tr1/hypergeometric.tcc:
-
-/usr/include/c++/11/tr1/exp_integral.tcc:
-
-/usr/include/c++/11/tr1/ell_integral.tcc:
-
-/usr/include/c++/11/tr1/bessel_function.tcc:
-
-/usr/include/c++/11/tr1/special_function_util.h:
-
-/usr/include/c++/11/bits/specfun.h:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-/usr/include/x86_64-linux-gnu/bits/fp-logb.h:
-
-/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
-
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
 ../src/capture/audio_capturer.cpp:
 
 /usr/include/c++/11/bits/istream.tcc:
@@ -1760,19 +1693,13 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/backward/auto_ptr.h:
 
-/usr/include/c++/11/bits/shared_ptr_atomic.h:
+/usr/include/c++/11/bits/ostream.tcc:
 
-/usr/include/c++/11/ext/concurrence.h:
-
-/usr/include/c++/11/bits/allocated_ptr.h:
+../include/codec/i_audio_decoder.hpp:
 
 ../include/codec/opus_codec.hpp:
 
 /usr/include/stdlib.h:
-
-/usr/include/c++/11/deque:
-
-/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/alloca.h:
 
@@ -1787,6 +1714,8 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/c++/11/ext/new_allocator.h:
 
 /usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
 
@@ -1814,7 +1743,11 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
+
+/usr/include/opus/opus.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
@@ -1840,13 +1773,9 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/bit:
 
-/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
 /usr/include/c++/11/iostream:
 
 /usr/include/c++/11/bits/node_handle.h:
-
-/usr/include/c++/11/bits/deque.tcc:
 
 /usr/include/x86_64-linux-gnu/asm/bitsperlong.h:
 
@@ -1876,6 +1805,8 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
+/usr/include/c++/11/bits/allocated_ptr.h:
+
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
@@ -1891,6 +1822,10 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/c++/11/pstl/execution_defs.h:
 
 /usr/include/c++/11/ext/type_traits.h:
+
+/usr/include/opus/opus_types.h:
+
+/usr/include/c++/11/string:
 
 /usr/include/c++/11/bits/basic_ios.tcc:
 
@@ -1920,8 +1855,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/bits/std_function.h:
 
-/usr/include/c++/11/cmath:
-
 /usr/include/c++/11/bits/allocator.h:
 
 ../src/network/udp_sender.cpp:
@@ -1949,10 +1882,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/c++/11/bits/functional_hash.h:
-
-/usr/include/x86_64-linux-gnu/gnu/stubs.h:
-
-/usr/include/c++/11/bits/stl_deque.h:
 
 /usr/include/c++/11/bits/stl_relops.h:
 
@@ -1986,15 +1915,11 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
-/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
-
 /usr/include/x86_64-linux-gnu/bits/in.h:
 
 /usr/include/c++/11/bits/postypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
-
-/usr/include/c++/11/tr1/beta_function.tcc:
 
 /usr/include/c++/11/array:
 
@@ -2029,8 +1954,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/c++/11/bits/vector.tcc:
 
 /usr/include/c++/11/cstring:
-
-/usr/include/math.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
@@ -2082,8 +2005,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/system_error:
 
-/usr/include/c++/11/tr1/gamma.tcc:
-
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h:
@@ -2112,16 +2033,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/bits/stl_algo.h:
 
-/usr/include/c++/11/bits/ostream.tcc:
-
-../include/codec/i_audio_decoder.hpp:
-
-/usr/include/opus/opus.h:
-
-/usr/include/opus/opus_types.h:
-
-/usr/include/c++/11/string:
-
 ../include/core/packet.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/socket.h:
@@ -2139,8 +2050,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/c++/11/debug/assertions.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
-
-/usr/include/c++/11/tr1/poly_laguerre.tcc:
 
 /usr/include/c++/11/bits/std_mutex.h:
 
@@ -2178,6 +2087,8 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
+/usr/include/c++/11/ext/concurrence.h:
+
 /usr/include/wctype.h:
 
 /usr/include/sched.h:
@@ -2204,8 +2115,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 
 /usr/include/c++/11/mutex:
 
-/usr/include/c++/11/tr1/legendre_function.tcc:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
@@ -2215,8 +2124,6 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/linux/errno.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
-
-/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
 
@@ -2307,6 +2214,8 @@ CMakeFiles/voice_engine.dir/src/streaming/slicer.cpp.o: ../src/streaming/slicer.
 /usr/include/c++/11/limits:
 
 /usr/include/c++/11/bits/parse_numbers.h:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
 
 /usr/include/c++/11/ios:
 

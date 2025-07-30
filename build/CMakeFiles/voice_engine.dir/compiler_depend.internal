@@ -124,9 +124,6 @@ CMakeFiles/voice_engine.dir/src/app/application.cpp.o
  /usr/include/stdint.h
  /usr/include/x86_64-linux-gnu/bits/wchar.h
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h
- /usr/include/c++/11/deque
- /usr/include/c++/11/bits/stl_deque.h
- /usr/include/c++/11/bits/deque.tcc
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/opus_codec.hpp
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/i_audio_encoder.hpp
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/i_audio_decoder.hpp
@@ -409,9 +406,6 @@ CMakeFiles/voice_engine.dir/src/app/main.cpp.o
  /usr/include/stdint.h
  /usr/include/x86_64-linux-gnu/bits/wchar.h
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h
- /usr/include/c++/11/deque
- /usr/include/c++/11/bits/stl_deque.h
- /usr/include/c++/11/bits/deque.tcc
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/opus_codec.hpp
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/i_audio_encoder.hpp
  /home/raulmoriarty/CLionProjects/voice_engine/include/codec/i_audio_decoder.hpp
@@ -693,9 +687,6 @@ CMakeFiles/voice_engine.dir/src/capture/audio_capturer.cpp.o
  /usr/include/stdint.h
  /usr/include/x86_64-linux-gnu/bits/wchar.h
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h
- /usr/include/c++/11/deque
- /usr/include/c++/11/bits/stl_deque.h
- /usr/include/c++/11/bits/deque.tcc
  /usr/include/c++/11/iostream
  /usr/include/c++/11/ostream
  /usr/include/c++/11/ios
@@ -785,34 +776,6 @@ CMakeFiles/voice_engine.dir/src/capture/audio_capturer.cpp.o
  /usr/include/c++/11/bits/ostream.tcc
  /usr/include/c++/11/istream
  /usr/include/c++/11/bits/istream.tcc
- /usr/include/c++/11/algorithm
- /usr/include/c++/11/pstl/glue_algorithm_defs.h
- /usr/include/c++/11/pstl/execution_defs.h
- /usr/include/c++/11/cmath
- /usr/include/math.h
- /usr/include/x86_64-linux-gnu/bits/math-vector.h
- /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h
- /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h
- /usr/include/x86_64-linux-gnu/bits/fp-logb.h
- /usr/include/x86_64-linux-gnu/bits/fp-fast.h
- /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h
- /usr/include/x86_64-linux-gnu/bits/mathcalls.h
- /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h
- /usr/include/x86_64-linux-gnu/bits/iscanonical.h
- /usr/include/c++/11/bits/specfun.h
- /usr/include/c++/11/limits
- /usr/include/c++/11/tr1/gamma.tcc
- /usr/include/c++/11/tr1/special_function_util.h
- /usr/include/c++/11/tr1/bessel_function.tcc
- /usr/include/c++/11/tr1/beta_function.tcc
- /usr/include/c++/11/tr1/ell_integral.tcc
- /usr/include/c++/11/tr1/exp_integral.tcc
- /usr/include/c++/11/tr1/hypergeometric.tcc
- /usr/include/c++/11/tr1/legendre_function.tcc
- /usr/include/c++/11/tr1/modified_bessel_func.tcc
- /usr/include/c++/11/tr1/poly_hermite.tcc
- /usr/include/c++/11/tr1/poly_laguerre.tcc
- /usr/include/c++/11/tr1/riemann_zeta.tcc
 
 CMakeFiles/voice_engine.dir/src/codec/opus_codec.cpp.o
  /home/raulmoriarty/CLionProjects/voice_engine/src/codec/opus_codec.cpp
