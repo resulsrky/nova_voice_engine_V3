@@ -61,7 +61,7 @@ void UdpReceiver::stop() {
 }
 
 void UdpReceiver::receive_loop() {
-    std::vector<uint8_t> buffer(2048);
+    std::vector<uint8_t> buffer(4096);
     sockaddr_in client_address{};
     socklen_t client_len = sizeof(client_address);
     while (is_running_) {
